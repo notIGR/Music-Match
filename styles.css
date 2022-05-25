@@ -1,3 +1,17 @@
 * {
-    background: orange;
+  box-sizing: border-box;
+}
+html {
+    min-height: 100vh;
+}
+body { 
+  margin: 0;
+  background: radial-gradient(#432501, #c26b02);
+}
+.page-title {
+    color: #f78902;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: normal;
+    text-align: center;
+    font-size: 6em;
 }
